@@ -52,20 +52,20 @@ Projeto desenvolvido como trabalho acadêmico para a disciplina de Estrutura de 
    - Git Bash ou terminal equivalente
    - GCC (ex: via MinGW no Windows)
 
+
 2. **Clonando o projeto**
 
    ```bash
    git clone https://github.com/seu-usuario/sistema-bancario.git
    cd sistema-bancario
 
-Compilando o sistema:
+3. **Compilando o sistema**
+
+  ```bash
    gcc -g *.c -o ./output/bancario.exe
-   
-Executando:
-  ./output/bancario.exe
+  ```
+4. **Executando**
 
-
-
-
-
+  ```bash
+./output/bancario.exe
 
